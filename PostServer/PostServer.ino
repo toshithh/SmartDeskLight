@@ -9,10 +9,10 @@
 SoftwareSerial rp2040(3,1);
 
 #ifndef STASSID
-#define STASSID "Neural Net"
-#define STAPSK "toshith@2619"
+#define STASSID "SSID"
+#define STAPSK "Password"
 #define APSSID "Color"
-#define APPSK "toshith@2619"
+#define APPSK "Password"
 #endif
 
 const char* ssid = STASSID;
