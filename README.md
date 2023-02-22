@@ -8,6 +8,12 @@ and a damaged servo motor's case.<br></p>
   by connecting the module to a wifi Network or by connecting to the
 module itself using it as an AP.</p>
 
+<br><br>
 
+<h2>How the final product looks like?</h2>
+<br><br>
 
-
+<p align="center">
+<img src="https://github.com/toshithh/SmartDeskLight/blob/main/ImageGallery/SmartDeskLight.jpg?raw=true" width="60%"><br><br><br>
+<img src="https://github.com/toshithh/SmartDeskLight/blob/main/ImageGallery/SmartDeskLight1.jpg?raw=true" width="60%">
+</p>
